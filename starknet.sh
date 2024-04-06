@@ -1,6 +1,6 @@
 #!/bin/bash
 
-RPC_URL="https://api.open-meteo.com/v1/ecmwf?latitude=52.52&longitude=13.41&hourly=temperature_2m"
+RPC_URL="https://rpc.starknet.lava.build/lava-referer-2ea5781a-25d6-4a67-87b2-71d2500c78af/"
 
 OUTPUT_DIR="logs"
 
